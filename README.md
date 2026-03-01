@@ -110,8 +110,8 @@ Evaluated 4 models on 5,000 users using temporal train/test splitting and 7 rank
 
 **Locally:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/RecSys-FAANG.git
-cd RecSys-FAANG
+git clone https://github.com/ARMAND-cod-eng/Recommendation-System.git
+cd Recommendation-System
 pip install numpy pandas scipy scikit-learn matplotlib seaborn torch faiss-cpu
 jupyter notebook notebooks/Part1_EDA_Baselines.ipynb
 ```
@@ -119,7 +119,7 @@ jupyter notebook notebooks/Part1_EDA_Baselines.ipynb
 ## Repository Structure
 
 ```
-RecSys-FAANG/
+Recommendation-System/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -144,6 +144,9 @@ RecSys-FAANG/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://kaggle.com)
+
+
+
 
 
 
